@@ -169,7 +169,7 @@
           <mxGeometry height="86" width="64" x="1624" y="1316" as="geometry" />
         </mxCell>
         <mxCell id="UbBzTS-rrj_jjXHoEU0l-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="336" width="554" x="1070" y="334" as="geometry" />
+          <mxGeometry height="399" width="554" x="1070" y="271" as="geometry" />
         </mxCell>
         <mxCell id="1c7a67bf8fd3230f-50" edge="1" parent="1" source="UbBzTS-rrj_jjXHoEU0l-29" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" target="UbBzTS-rrj_jjXHoEU0l-27">
           <mxGeometry relative="1" as="geometry">
@@ -246,10 +246,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UbBzTS-rrj_jjXHoEU0l-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="安全区" vertex="1">
-          <mxGeometry height="30" width="60" x="1322" y="345" as="geometry" />
+          <mxGeometry height="30" width="60" x="1310" y="276" as="geometry" />
         </mxCell>
-        <mxCell id="UbBzTS-rrj_jjXHoEU0l-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="354" width="554" x="460" y="271" as="geometry" />
+        <mxCell id="UbBzTS-rrj_jjXHoEU0l-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="399" width="554" x="460" y="271" as="geometry" />
         </mxCell>
         <mxCell id="1c7a67bf8fd3230f-37" edge="1" parent="1" source="UbBzTS-rrj_jjXHoEU0l-6" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" target="UbBzTS-rrj_jjXHoEU0l-21">
           <mxGeometry relative="1" as="geometry">
