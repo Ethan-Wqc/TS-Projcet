@@ -36,9 +36,6 @@
             <mxPoint x="1166.7553816046968" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1c7a67bf8fd3230f-8" parent="1" style="shape=mxgraph.cisco.storage.cisco_file_engine;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" value="" vertex="1">
-          <mxGeometry height="64" width="90" x="700" y="730" as="geometry" />
-        </mxCell>
         <mxCell id="1c7a67bf8fd3230f-56" edge="1" parent="1" source="1c7a67bf8fd3230f-13" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" target="1c7a67bf8fd3230f-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -263,9 +260,6 @@
         </mxCell>
         <mxCell id="1c7a67bf8fd3230f-9" parent="1" style="shape=mxgraph.cisco.misc.me1100;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" value="" vertex="1">
           <mxGeometry height="48" width="91" x="499" y="497" as="geometry" />
-        </mxCell>
-        <mxCell id="1c7a67bf8fd3230f-46" parent="1" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" value="" vertex="1">
-          <mxGeometry height="53" width="78" x="422" y="750" as="geometry" />
         </mxCell>
         <mxCell id="UbBzTS-rrj_jjXHoEU0l-1" parent="1" style="shape=mxgraph.cisco.misc.me1100;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" value="" vertex="1">
           <mxGeometry height="48" width="91" x="499" y="442" as="geometry" />
