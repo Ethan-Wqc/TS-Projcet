@@ -321,7 +321,7 @@
         <mxCell id="Tl9ndAQoLNfsxS61IEOT-17" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc_routercard;" value="办公电脑2" vertex="1">
           <mxGeometry height="70" width="78" x="1389" y="194" as="geometry" />
         </mxCell>
-        <mxCell id="Tl9ndAQoLNfsxS61IEOT-18" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc_routercard;" value="办公电脑3" vertex="1">
+        <mxCell id="Tl9ndAQoLNfsxS61IEOT-18" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc_routercard;" value="办公电脑N" vertex="1">
           <mxGeometry height="70" width="78" x="1530" y="191" as="geometry" />
         </mxCell>
         <mxCell id="Tl9ndAQoLNfsxS61IEOT-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="办公区" vertex="1">
