@@ -528,7 +528,7 @@
             <mxPoint x="1571" y="1369.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bq70lKQUBuXBCN-LOsDr-27" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.hubs_and_gateways.generic_gateway;" value="通讯网关" vertex="1">
+        <mxCell id="bq70lKQUBuXBCN-LOsDr-27" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.hubs_and_gateways.generic_gateway;" value="通讯网关&lt;div&gt;（备用）&lt;/div&gt;" vertex="1">
           <mxGeometry height="74" width="66" x="846" y="890" as="geometry" />
         </mxCell>
         <mxCell id="bq70lKQUBuXBCN-LOsDr-28" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;fontStyle=1;verticalAlign=top;" value="车站N" vertex="1">
@@ -728,7 +728,7 @@
             <mxPoint x="997" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bq70lKQUBuXBCN-LOsDr-73" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.hubs_and_gateways.generic_gateway;" value="通讯网关" vertex="1">
+        <mxCell id="bq70lKQUBuXBCN-LOsDr-73" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.hubs_and_gateways.generic_gateway;" value="通讯网关&lt;div&gt;（备用）&lt;/div&gt;" vertex="1">
           <mxGeometry height="74" width="66" x="1357" y="890" as="geometry" />
         </mxCell>
         <mxCell id="bq70lKQUBuXBCN-LOsDr-74" edge="1" parent="1" source="bq70lKQUBuXBCN-LOsDr-5" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" target="bq70lKQUBuXBCN-LOsDr-73">
@@ -737,7 +737,7 @@
             <mxPoint x="1508" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bq70lKQUBuXBCN-LOsDr-75" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.hubs_and_gateways.generic_gateway;" value="通讯网关" vertex="1">
+        <mxCell id="bq70lKQUBuXBCN-LOsDr-75" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.hubs_and_gateways.generic_gateway;" value="通讯网关&lt;div&gt;（备用）&lt;/div&gt;" vertex="1">
           <mxGeometry height="74" width="66" x="1871" y="887.07" as="geometry" />
         </mxCell>
         <mxCell id="bq70lKQUBuXBCN-LOsDr-76" edge="1" parent="1" source="bq70lKQUBuXBCN-LOsDr-30" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" target="bq70lKQUBuXBCN-LOsDr-75">
