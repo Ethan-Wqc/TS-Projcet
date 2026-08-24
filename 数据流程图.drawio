@@ -15,10 +15,10 @@
             <mxPoint x="1206.7553816046968" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gVx2qylBBWFmfv2P2Yoe-5" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;" value="Internet" vertex="1">
+        <mxCell id="gVx2qylBBWFmfv2P2Yoe-5" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=16;" value="&lt;span&gt;专线\VPN&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="964" y="736" as="geometry" />
         </mxCell>
-        <mxCell id="gVx2qylBBWFmfv2P2Yoe-6" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;" value="Internet" vertex="1">
+        <mxCell id="gVx2qylBBWFmfv2P2Yoe-6" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=16;" value="&lt;span&gt;互联网&lt;/span&gt;&lt;div&gt;Internet&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="1511" y="736" as="geometry" />
         </mxCell>
         <mxCell id="gVx2qylBBWFmfv2P2Yoe-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;dashed=1;dashPattern=12 12;" value="" vertex="1">
