@@ -775,10 +775,10 @@
         <mxCell id="bq70lKQUBuXBCN-LOsDr-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="灾备机房" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="bq70lKQUBuXBCN-LOsDr-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;dashed=1;dashPattern=12 12;fontColor=#ffffff;fontSize=19;" value="灾备网络设备" vertex="1">
+        <mxCell id="bq70lKQUBuXBCN-LOsDr-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;dashed=1;dashPattern=12 12;fontColor=#ffffff;fontSize=19;" value="灾备网络设备" vertex="1">
           <mxGeometry height="143.43" width="155.5" x="135" y="328" as="geometry" />
         </mxCell>
-        <mxCell id="bq70lKQUBuXBCN-LOsDr-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;dashed=1;dashPattern=12 12;fontColor=#ffffff;fontSize=19;" value="灾备安全设备" vertex="1">
+        <mxCell id="bq70lKQUBuXBCN-LOsDr-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;dashed=1;dashPattern=12 12;fontColor=#ffffff;fontSize=19;" value="灾备安全设备" vertex="1">
           <mxGeometry height="143.43" width="155.5" x="135" y="516.5699999999999" as="geometry" />
         </mxCell>
         <mxCell id="bq70lKQUBuXBCN-LOsDr-85" parent="1" style="shape=doubleArrow;whiteSpace=wrap;html=1;" value="实时同步" vertex="1">
@@ -814,7 +814,7 @@
         <mxCell id="bq70lKQUBuXBCN-LOsDr-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Verdana;&quot;&gt;主机房&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1010" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="bq70lKQUBuXBCN-LOsDr-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;dashed=1;dashPattern=12 12;fontColor=#ffffff;fontSize=19;" value="灾备服务器" vertex="1">
+        <mxCell id="bq70lKQUBuXBCN-LOsDr-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;dashed=1;dashPattern=12 12;fontColor=#ffffff;fontSize=19;" value="灾备服务器" vertex="1">
           <mxGeometry height="143.43" width="155.5" x="135" y="140.00000000000003" as="geometry" />
         </mxCell>
       </root>
