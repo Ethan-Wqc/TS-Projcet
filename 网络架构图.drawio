@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6" name="第 1 页">
-    <mxGraphModel dx="773" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bq70lKQUBuXBCN-LOsDr-26" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;fontStyle=1;verticalAlign=top;" value="车站2" vertex="1">
           <mxGeometry height="590" width="424" x="1019" y="836" as="geometry" />
         </mxCell>
-        <mxCell id="1c7a67bf8fd3230f-83" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;verticalAlign=top;fontStyle=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="主机房" vertex="1">
+        <mxCell id="1c7a67bf8fd3230f-83" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;verticalAlign=top;fontStyle=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="590" width="1240" x="434" y="90" as="geometry" />
         </mxCell>
         <mxCell id="1c7a67bf8fd3230f-80" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;fontStyle=1;verticalAlign=top;" value="车站1" vertex="1">
@@ -301,7 +301,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tl9ndAQoLNfsxS61IEOT-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="测试服务器区" vertex="1">
-          <mxGeometry height="30" width="60" x="680" y="160" as="geometry" />
+          <mxGeometry height="30" width="60" x="680" y="150" as="geometry" />
         </mxCell>
         <mxCell id="Tl9ndAQoLNfsxS61IEOT-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="151" width="554" x="1070" y="140" as="geometry" />
@@ -772,7 +772,7 @@
         <mxCell id="bq70lKQUBuXBCN-LOsDr-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="374" width="325.5" x="50" y="306" as="geometry" />
         </mxCell>
-        <mxCell id="bq70lKQUBuXBCN-LOsDr-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="灾备区" vertex="1">
+        <mxCell id="bq70lKQUBuXBCN-LOsDr-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="灾备机房" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="320" as="geometry" />
         </mxCell>
         <mxCell id="bq70lKQUBuXBCN-LOsDr-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;dashed=1;dashPattern=12 12;fontColor=#ffffff;fontSize=19;" value="灾备服务器区" vertex="1">
@@ -810,6 +810,9 @@
         </mxCell>
         <mxCell id="bq70lKQUBuXBCN-LOsDr-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;dashed=1;dashPattern=12 12;" value="" vertex="1">
           <mxGeometry height="138" width="412" x="1025" y="1282.37" as="geometry" />
+        </mxCell>
+        <mxCell id="bq70lKQUBuXBCN-LOsDr-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Verdana;&quot;&gt;主机房&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1010" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
