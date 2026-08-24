@@ -775,6 +775,12 @@
         <mxCell id="bq70lKQUBuXBCN-LOsDr-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="灾备区&lt;div&gt;（可选）&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="320" as="geometry" />
         </mxCell>
+        <mxCell id="bq70lKQUBuXBCN-LOsDr-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;dashPattern=12 12;" value="灾备服务器区" vertex="1">
+          <mxGeometry height="143.43" width="155.5" x="135" y="346.29" as="geometry" />
+        </mxCell>
+        <mxCell id="bq70lKQUBuXBCN-LOsDr-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;dashPattern=12 12;" value="灾备接入区" vertex="1">
+          <mxGeometry height="143.43" width="155.5" x="135" y="516.5699999999999" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
