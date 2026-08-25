@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xFUyHX5SJxsCFqlUj6gn-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;verticalAlign=top;" value="" vertex="1">
+        <mxCell id="xFUyHX5SJxsCFqlUj6gn-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1;verticalAlign=top;" value="" vertex="1">
           <mxGeometry height="587" width="684" x="1030" y="930" as="geometry" />
         </mxCell>
         <mxCell id="xFUyHX5SJxsCFqlUj6gn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;dashed=1;dashPattern=12 12;" value="" vertex="1">
           <mxGeometry height="177" width="661" x="1040" y="1323" as="geometry" />
         </mxCell>
-        <mxCell id="gVx2qylBBWFmfv2P2Yoe-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=16;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;verticalAlign=top;" value="车站系统" vertex="1">
+        <mxCell id="gVx2qylBBWFmfv2P2Yoe-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=16;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1;verticalAlign=top;" value="车站系统" vertex="1">
           <mxGeometry height="587" width="464" x="546" y="930" as="geometry" />
         </mxCell>
         <mxCell id="gVx2qylBBWFmfv2P2Yoe-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;dashed=1;dashPattern=12 12;" value="" vertex="1">
