@@ -13,7 +13,7 @@
         <mxCell id="gVx2qylBBWFmfv2P2Yoe-148" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.cell_phone2;fillColor=#fafafa;strokeColor=#005073;" value="移动端APP&lt;div&gt;购票系统&lt;/div&gt;" vertex="1">
           <mxGeometry height="132" width="66" x="1739.0700000000002" y="217" as="geometry" />
         </mxCell>
-        <mxCell id="gVx2qylBBWFmfv2P2Yoe-150" parent="1" style="strokeColor=none;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.people.man_woman;" value="" vertex="1">
+        <mxCell id="gVx2qylBBWFmfv2P2Yoe-150" parent="1" style="strokeColor=none;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.people.man_woman;fontSize=16;" value="乘客购票" vertex="1">
           <mxGeometry height="190" width="110" x="1440" y="700" as="geometry" />
         </mxCell>
         <mxCell id="gVx2qylBBWFmfv2P2Yoe-161" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.people.androgenous_person;" value="车站端&lt;div&gt;购票系统&lt;/div&gt;" vertex="1">
