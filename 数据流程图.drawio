@@ -121,12 +121,6 @@
         <mxCell id="hMf_yabLaErbTdA-856Z-30" parent="1" style="shape=cross;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="50" width="52.87" x="1746.5700000000002" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="hMf_yabLaErbTdA-856Z-33" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="自动核验" vertex="1">
-          <mxGeometry height="60" width="100" x="1883" y="660" as="geometry" />
-        </mxCell>
-        <mxCell id="hMf_yabLaErbTdA-856Z-34" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="人工核验" vertex="1">
-          <mxGeometry height="60" width="100" x="1883" y="814.56" as="geometry" />
-        </mxCell>
         <mxCell id="hMf_yabLaErbTdA-856Z-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fontSize=16;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" value="互联网票务系统" vertex="1">
           <mxGeometry height="370" width="230" x="2283" y="590" as="geometry" />
         </mxCell>
@@ -134,10 +128,10 @@
           <mxGeometry height="370" width="230" x="2603" y="590" as="geometry" />
         </mxCell>
         <mxCell id="hMf_yabLaErbTdA-856Z-37" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="核验数据上传" vertex="1">
-          <mxGeometry height="60" width="100" x="2193" y="755.5" as="geometry" />
+          <mxGeometry height="60" width="100" x="2203" y="793.52" as="geometry" />
         </mxCell>
         <mxCell id="hMf_yabLaErbTdA-856Z-38" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="核验数据上传" vertex="1">
-          <mxGeometry height="60" width="100" x="2513" y="754.56" as="geometry" />
+          <mxGeometry height="60" width="100" x="2513" y="790" as="geometry" />
         </mxCell>
         <mxCell id="hMf_yabLaErbTdA-856Z-42" edge="1" parent="1" source="gVx2qylBBWFmfv2P2Yoe-5" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;strokeWidth=1;fontColor=light-dark(#ffffff, #ededed);labelBackgroundColor=#FFFFFF;strokeColor=light-dark(#050000, #ededed);shape=flexArrow;" target="hMf_yabLaErbTdA-856Z-35" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -234,6 +228,21 @@
           <mxGeometry relative="1" x="-0.1271" y="4" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hMf_yabLaErbTdA-856Z-73" parent="1" style="strokeColor=none;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.people.man_woman;" value="" vertex="1">
+          <mxGeometry height="190" width="110" x="1880" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="hMf_yabLaErbTdA-856Z-74" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="乘车" vertex="1">
+          <mxGeometry height="50" width="64" x="1903" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="hMf_yabLaErbTdA-856Z-75" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="乘车" vertex="1">
+          <mxGeometry height="50" width="64" x="1903" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="hMf_yabLaErbTdA-856Z-76" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="核验数据上传" vertex="1">
+          <mxGeometry height="60" width="100" x="2203" y="694.56" as="geometry" />
+        </mxCell>
+        <mxCell id="hMf_yabLaErbTdA-856Z-77" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="购票数据上传" vertex="1">
+          <mxGeometry height="60" width="100" x="2513" y="683.52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
