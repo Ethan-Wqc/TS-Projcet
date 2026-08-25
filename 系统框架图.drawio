@@ -16,7 +16,7 @@
         <mxCell id="gVx2qylBBWFmfv2P2Yoe-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;dashed=1;dashPattern=12 12;" value="" vertex="1">
           <mxGeometry height="177" width="430" x="560" y="1323" as="geometry" />
         </mxCell>
-        <mxCell id="gVx2qylBBWFmfv2P2Yoe-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;verticalAlign=top;fontStyle=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+        <mxCell id="gVx2qylBBWFmfv2P2Yoe-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=16;verticalAlign=top;fontStyle=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="536" width="1240" x="474" y="184" as="geometry" />
         </mxCell>
         <mxCell id="gVx2qylBBWFmfv2P2Yoe-5" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=16;" value="&lt;span&gt;专线\VPN&lt;/span&gt;" vertex="1">
