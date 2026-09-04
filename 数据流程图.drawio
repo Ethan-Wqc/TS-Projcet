@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6" name="第 1 页">
-    <mxGraphModel dx="11" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="-185" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
           <mxGeometry height="370" width="230" x="2283" y="590" as="geometry" />
         </mxCell>
         <mxCell id="hMf_yabLaErbTdA-856Z-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;中心清分系统&lt;/span&gt;" vertex="1">
-          <mxGeometry height="370" width="230" x="2603" y="590" as="geometry" />
+          <mxGeometry height="370" width="357" x="2603" y="590" as="geometry" />
         </mxCell>
         <mxCell id="hMf_yabLaErbTdA-856Z-38" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="核验数据上传" vertex="1">
           <mxGeometry height="60" width="100" x="2513" y="790" as="geometry" />
@@ -254,29 +254,8 @@
         <mxCell id="hMf_yabLaErbTdA-856Z-78" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;设备监控大屏&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="2658" y="349" as="geometry" />
         </mxCell>
-        <mxCell id="-M5JfIaH-p10mFevbHES-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;第三方系统&lt;/span&gt;" vertex="1">
-          <mxGeometry height="370" width="230" x="2921" y="590" as="geometry" />
-        </mxCell>
-        <mxCell id="-M5JfIaH-p10mFevbHES-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" value="主管单位" vertex="1">
-          <mxGeometry height="60" width="120" x="2976" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="-M5JfIaH-p10mFevbHES-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" value="GePG支付网关" vertex="1">
-          <mxGeometry height="60" width="120" x="2976" y="694.56" as="geometry" />
-        </mxCell>
-        <mxCell id="-M5JfIaH-p10mFevbHES-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" value="银行支付网关" vertex="1">
-          <mxGeometry height="60" width="120" x="2976" y="793.52" as="geometry" />
-        </mxCell>
-        <mxCell id="-M5JfIaH-p10mFevbHES-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" value="第三方代办系统" vertex="1">
-          <mxGeometry height="60" width="120" x="2976" y="874.56" as="geometry" />
-        </mxCell>
-        <mxCell id="-M5JfIaH-p10mFevbHES-6" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="核验数据上传" vertex="1">
-          <mxGeometry height="60" width="100" x="2827" y="791.76" as="geometry" />
-        </mxCell>
-        <mxCell id="-M5JfIaH-p10mFevbHES-7" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;points=[[0,0,0,0,21],[0,0,0,0,39],[0,0,0,40,21],[0,0,0,40,39],[0,0,0,80,0],[0,0,0,80,60],[0,0.5,0,0,0],[1,0.5,0,0,0]];" value="支付数据" vertex="1">
-          <mxGeometry height="60" width="100" x="2827" y="685.28" as="geometry" />
-        </mxCell>
-        <mxCell id="-M5JfIaH-p10mFevbHES-8" parent="1" style="shape=doubleArrow;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="30" width="100" x="2890" y="549" as="geometry" />
+        <mxCell id="-M5JfIaH-p10mFevbHES-7" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;points=[[0,0,0,0,21],[0,0,0,0,39],[0,0,0,40,21],[0,0,0,40,39],[0,0,0,80,0],[0,0,0,80,60],[0,0.5,0,0,0],[1,0.5,0,0,0]];fontSize=14;" value="监管数据" vertex="1">
+          <mxGeometry height="60" width="98.26" x="2960" y="738.52" as="geometry" />
         </mxCell>
         <mxCell id="-M5JfIaH-p10mFevbHES-10" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="核验数据上传" vertex="1">
           <mxGeometry height="60" width="87" x="2200" y="685.28" as="geometry" />
@@ -294,6 +273,35 @@
         </mxCell>
         <mxCell id="-M5JfIaH-p10mFevbHES-21" parent="1" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;参数、票价&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="166.57" x="1880" y="1069" as="geometry" />
+        </mxCell>
+        <mxCell id="-M5JfIaH-p10mFevbHES-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="" vertex="1">
+          <mxGeometry height="90" width="470" x="2240" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-M5JfIaH-p10mFevbHES-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" value="数据接口" vertex="1">
+          <mxGeometry height="60" width="120" x="2837.66" y="738.52" as="geometry" />
+        </mxCell>
+        <mxCell id="-M5JfIaH-p10mFevbHES-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" value="GePG支付网关" vertex="1">
+          <mxGeometry height="60" width="120" x="2258" y="224.55999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="-M5JfIaH-p10mFevbHES-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" value="银行支付网关" vertex="1">
+          <mxGeometry height="60" width="120" x="2410" y="224.56" as="geometry" />
+        </mxCell>
+        <mxCell id="-M5JfIaH-p10mFevbHES-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" value="第三方代办系统" vertex="1">
+          <mxGeometry height="60" width="120" x="2568" y="224.55999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="-M5JfIaH-p10mFevbHES-27" edge="1" parent="1" style="shape=filledEdge;rounded=0;fixDash=1;endArrow=blockThin;strokeWidth=14;fillColor=#ffffff;html=1;startArrow=blockThin;startFill=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;endFill=1;" value="">
+          <mxGeometry height="40" relative="1" width="60" as="geometry">
+            <mxPoint x="2455.5" y="585" as="sourcePoint" />
+            <mxPoint x="2455.5" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-M5JfIaH-p10mFevbHES-28" connectable="0" parent="-M5JfIaH-p10mFevbHES-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="支付、购票" vertex="1">
+          <mxGeometry relative="1" x="-0.2564" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-M5JfIaH-p10mFevbHES-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" value="主管单位" vertex="1">
+          <mxGeometry height="60" width="120" x="3058.26" y="738.52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
