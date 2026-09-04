@@ -850,7 +850,7 @@
           <mxGeometry height="116" width="178.17" x="1801.83" y="1469.8200000000004" as="geometry" />
         </mxCell>
         <mxCell id="qOwbkVDbldCctmeWdkeP-1" parent="1" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontStyle=1" value="实时同步" vertex="1">
-          <mxGeometry height="60" width="100" x="364" y="516" as="geometry" />
+          <mxGeometry height="60" width="104.5" x="359.5" y="516" as="geometry" />
         </mxCell>
         <mxCell id="qOwbkVDbldCctmeWdkeP-2" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.directors.director-class_fibre_channel_director;fontSize=14;fontStyle=1" value="仲裁设备" vertex="1">
           <mxGeometry height="69" width="51" x="388.5" y="192" as="geometry" />
