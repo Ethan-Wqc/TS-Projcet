@@ -78,22 +78,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UbBzTS-rrj_jjXHoEU0l-40" parent="1" style="sketch=0;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.security.network_security_2;strokeColor=#000000;" value="日志分析管理系统" vertex="1">
-          <mxGeometry height="57.99999999999999" width="45" x="1415" y="411.5" as="geometry" />
+          <mxGeometry height="57.99999999999999" width="45" x="1415" y="406.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qOwbkVDbldCctmeWdkeP-14" edge="1" parent="1" source="UbBzTS-rrj_jjXHoEU0l-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1438.5" y="420.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UbBzTS-rrj_jjXHoEU0l-41" parent="1" style="strokeColor=#ffffff;sketch=0;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.security.lock;" value="统一端点安全管理系统" vertex="1">
-          <mxGeometry height="61" width="53" x="1412" y="500.5" as="geometry" />
+          <mxGeometry height="61" width="53" x="1412" y="495.5" as="geometry" />
         </mxCell>
         <mxCell id="UbBzTS-rrj_jjXHoEU0l-42" parent="1" style="strokeColor=#ffffff;sketch=0;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.security.guard;" value="运维安全管理系统" vertex="1">
-          <mxGeometry height="54" width="88" x="1533" y="507.5" as="geometry" />
+          <mxGeometry height="54" width="88" x="1533" y="502.5" as="geometry" />
         </mxCell>
         <mxCell id="UbBzTS-rrj_jjXHoEU0l-43" parent="1" style="sketch=0;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.hubs_and_gateways.small_hub;" value="APT威胁检测系统" vertex="1">
-          <mxGeometry height="45" width="90" x="1533" y="424.5" as="geometry" />
+          <mxGeometry height="45" width="90" x="1533" y="419.5" as="geometry" />
         </mxCell>
         <mxCell id="UbBzTS-rrj_jjXHoEU0l-44" parent="1" style="sketch=0;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.hubs_and_gateways.generic_gateway;" value="数据库安全审计系统" vertex="1">
-          <mxGeometry height="74" width="66" x="1545" y="306" as="geometry" />
+          <mxGeometry height="74" width="66" x="1545" y="301" as="geometry" />
         </mxCell>
         <mxCell id="UbBzTS-rrj_jjXHoEU0l-45" parent="1" style="strokeColor=#ffffff;sketch=0;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.servers.microwebserver;" value="web应用防护系统" vertex="1">
-          <mxGeometry height="51" width="77" x="1400" y="317.5" as="geometry" />
+          <mxGeometry height="51" width="77" x="1400" y="312.5" as="geometry" />
         </mxCell>
         <mxCell id="UbBzTS-rrj_jjXHoEU0l-46" edge="1" parent="1" source="UbBzTS-rrj_jjXHoEU0l-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="UbBzTS-rrj_jjXHoEU0l-41">
           <mxGeometry relative="1" as="geometry" />
@@ -868,8 +873,8 @@
         <mxCell id="qOwbkVDbldCctmeWdkeP-11" parent="1" style="strokeColor=#ffffff;sketch=0;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.security.guard;" value="安全准入系统" vertex="1">
           <mxGeometry height="54" width="88" x="1526" y="596" as="geometry" />
         </mxCell>
-        <mxCell id="qOwbkVDbldCctmeWdkeP-12" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.security.centri_firewall;" value="" vertex="1">
-          <mxGeometry height="62" width="43" x="1416" y="593" as="geometry" />
+        <mxCell id="qOwbkVDbldCctmeWdkeP-12" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.security.centri_firewall;" value="SIEM安全态势感知平台" vertex="1">
+          <mxGeometry height="62" width="43" x="1415" y="588" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
