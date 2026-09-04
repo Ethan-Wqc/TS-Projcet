@@ -314,7 +314,7 @@
         <mxCell id="z6VyShHqau6oWmgUX_A7-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=14;" value="上级主管单位" vertex="1">
           <mxGeometry height="60" width="120" x="1785" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="z6VyShHqau6oWmgUX_A7-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=14;" value="支付网关" vertex="1">
+        <mxCell id="z6VyShHqau6oWmgUX_A7-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=14;" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:12.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;GePG&lt;/span&gt;支付网关" vertex="1">
           <mxGeometry height="60" width="120" x="1785" y="440" as="geometry" />
         </mxCell>
         <mxCell id="z6VyShHqau6oWmgUX_A7-9" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=14;" value="">
@@ -328,6 +328,9 @@
             <mxPoint x="1692" y="570" as="sourcePoint" />
             <mxPoint x="1772" y="570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z6VyShHqau6oWmgUX_A7-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=14;" value="&lt;font face=&quot;Times New Roman&quot;&gt;银行&lt;/font&gt;支付网关" vertex="1">
+          <mxGeometry height="60" width="120" x="1790" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
